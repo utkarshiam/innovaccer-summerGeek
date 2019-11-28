@@ -6,6 +6,11 @@ This is simple meeting management system build using:
 - NodeJS 
 - FirebaseCloud functions.
 
+
+Project Deployment
+1. frontend - firebase - [innovaccer](https://innovacer-task.firebaseapp.com/) 
+2. Backend - Herokku - [Back-end](https://still-beyond-30740.herokuapp.com/)
+
 ## Setup
 
 Setup Mailing Service
