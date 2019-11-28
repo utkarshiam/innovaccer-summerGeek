@@ -34,7 +34,6 @@ Two database configuration are present
 -Firestore (server/auth/[Insert your service_account keys]) 
 -Mongo.
 
-
 ## Approach
 
 1. Made a development project with firebase cloud functions to start Lean.
