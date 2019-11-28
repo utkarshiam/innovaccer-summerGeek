@@ -6,7 +6,7 @@ This is simple meeting management system build using:
 - NodeJS 
 - FirebaseCloud functions.
 
-##Setup
+## Setup
 
 Setup Mailing Service
 Set the following environment variable in server/server.js OR functions/index.js for nodemailer
@@ -30,7 +30,7 @@ Two database configuration are present
 -Mongo.
 
 
-##Approach
+## Approach
 
 1. Made a development project with firebase cloud functions to start Lean.
 2. Problems were faced with the 3rd-party Http requests made by the cloud functions.
